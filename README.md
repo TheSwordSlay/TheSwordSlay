@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSwordSlay
+👋 Hi, I’m @TheSwordSlay
 I'm a student at a University in Indonesia, i post some of my projects here
 
 If you like some of it, consider leaving it a star
