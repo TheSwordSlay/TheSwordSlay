@@ -1,7 +1,7 @@
 ## About me
 Hi, My Real name's Fiqri, but you can also call me by my username, TheSwordSlay.
 
-Im interested in Web Development, but i also started to learn about Android Development
+Im interested in Web Development and Mobile Development
 
 I post some of my projects here, consider giving them a star if you like it
 
